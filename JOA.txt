@@ -1,0 +1,21 @@
+shared.LoaderTitle = "اهلا بك في سكربت JOAO  HUB";
+shared.LoaderKeyFrames = {
+    [1] = {
+        1,
+        20
+    },
+    [2] = {
+        2,
+        50
+    },
+    [3] = {
+        3,
+        80
+    },
+    [4] = {
+        2,
+        100
+    }
+};
+local v2 = {
+    LoaderData =
